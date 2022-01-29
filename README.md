@@ -1,1 +1,41 @@
-﻿# shop-shop
+# Shop-shop-E-commerce
+
+## Table of Contents
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
+
+## Description
+
+Shop Shop is an e-commerce site with Stripe payment system that allows users to sign up/login, add items to their carts, and checkout using a credit card. In the shopping cart, users can manipulate the number of items they want to buy of a particular product and can delete products from their carts. To quickly find items, users can sort the items by category. Shop Shop comes loaded with seeded products. Shop shop uses React's Context State API.
+
+The application will look something like this: 
+
+![screencapture-shop-shop-redux-refactor-herokuapp-2022-01-08-18_49_29](https://user-images.githubusercontent.com/86434738/148663784-a69e31ad-9483-45bf-be62-0b7ba39e0de3.jpg)
+
+
+## Installation
+If you would like to play with the code, clone the code to your machine, open the root of the project in your favorite IDE, run `npm i` to install dependencies, and then `npm run develop` to run the server and client concurrently.
+
+## Usage
+Simply use [this](ancient-shelf-12765.herokuapp.com/) Heroku link for the deployed application.
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
+
+Copyright 2021 ggamb
+
+This project is licensed under the MIT License. For the full license see this [link](https://opensource.org/licenses/MIT)
+
+## Contributing
+
+If you would like to contribute, feel free to fork this code and try it yourself.
+
+## Tests
+I did not use tests for this project.
+
+## Questions?
+My Github: [ggamb](https://github.com/ggamb)
